@@ -1,0 +1,2 @@
+# este símbolo representa um comentário em Python, que é ignorado pelo interpretador e serve para explicar o código para outros desenvolvedores ou para você mesmo no futuro.
+print ("Olá, eu sou o Tarso")
